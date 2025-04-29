@@ -3,22 +3,22 @@ import { Hero,ImageTextSection,Card,PlacesCards,ContactUs } from "../components/
 import banner from "../assets/umrah/about2.jpg";
 const packagesData = [
     {
-      image: "/src/assets/umrah/umrahstd.jpg",
+      image: "/assets/umrah/umrahstd.jpg",
       title: "Umrah Package – Standard",
       description: "7-day stay, 3-star hotel, guided ziyarah, transportation included.",
     },
     {
-      image: "/src/assets/umrah/umrahpre.webp",
+      image: "/assets/umrah/umrahpre.webp",
       title: "Umrah Package – Premium",
       description: "10-day stay, 5-star hotel near Haram, VIP services, and meals.",
     },
     {
-      image: "/src/assets/hajj1/hajjstd.jpg",
+      image: "/assets/hajj1/hajjstd.jpg",
       title: "Hajj Package – Economy",
       description: "Economical Hajj with group guidance, 14 days, shared rooms.",
     },
     {
-      image: "/src/assets/hajj1/hajjpre.jpg",
+      image: "/assets/hajj1/hajjpre.jpg",
       title: "Hajj Package – Deluxe",
       description: "Luxury accommodation, private transport, scholar-led journey.",
     },
